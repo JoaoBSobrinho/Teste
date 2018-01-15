@@ -1,0 +1,10 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Sat May 21 14:51:11 2016
+        MODULE OPERATION__genmod
+          INTERFACE 
+            SUBROUTINE OPERATION(A,B,R)
+              REAL(KIND=4) ,POINTER, INTENT(IN) :: A
+              REAL(KIND=4) ,POINTER, INTENT(IN) :: B
+              REAL(KIND=4), INTENT(OUT) :: R
+            END SUBROUTINE OPERATION
+          END INTERFACE 
+        END MODULE OPERATION__genmod

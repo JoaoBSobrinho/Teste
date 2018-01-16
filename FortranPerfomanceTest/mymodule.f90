@@ -15,6 +15,7 @@
         real :: r
         !Teste adiciobar aqui umas cenas
         !coiso e tal
+        !Teste aalteracoes externas
         do a = -5000000, 5000000
         do b = 0, 100
             if (a > 0) then

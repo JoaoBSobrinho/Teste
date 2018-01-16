@@ -15,6 +15,7 @@
         real :: r
         !Teste adiciobar aqui umas cenas
         !coiso e tal
+        !Alteraçoes feitas externamente e resolucao de conflitos
         do a = -5000000, 5000000
         do b = 0, 100
             if (a > 0) then

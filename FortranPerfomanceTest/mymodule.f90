@@ -17,6 +17,7 @@
         !coiso e tal
         !Teste aalteracoes externas
         !Alteraçoes feitas externamente e resolucao de conflitos
+        !Alteracoes finais
         do a = -5000000, 5000000
         do b = 0, 100
             if (a > 0) then
